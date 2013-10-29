@@ -10,14 +10,14 @@ This application is for those who want to help and who need help. The applicatio
 ### Requirements
  
   If you want to help
-  #### Who you are
-  #### Valid email id
-  #### Valid mobile no
-  #### In what ways you can help
+  * Who you are
+  * Valid email id
+  * Valid mobile no
+  * In what ways you can help
   
   If you need help
-   #### Who you are
-   #### Valid email id
-   #### Valid mobile no
-   #### What help do you need
+   * Who you are
+   * Valid email id
+   * Valid mobile no
+   * What help do you need
   
